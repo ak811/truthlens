@@ -1,0 +1,4 @@
+torch==2.5.1
+tqdm==4.67.1
+Pillow==10.0.1
+openai==0.28.0
